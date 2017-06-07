@@ -22,7 +22,7 @@ const Header = (props: { showSearch?: boolean, handleSearchTermChange?: Function
     <header>
       <h1>
         <Link to="/">
-          svideo
+          Change header
         </Link>
       </h1>
       {utilSpace}
